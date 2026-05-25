@@ -14,7 +14,7 @@ Projeto desenvolvido em React com Vite para as atividades do SPL.
 ## Login de teste
 
 - E-mail: `test@mail.com`
-- Senha: `senha`
+- Senha: `senha123`
 
 ## Como rodar
 
