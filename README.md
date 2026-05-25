@@ -47,3 +47,4 @@ src/
   services/fakeApi.js
   styles.css
 ```
+# splcomp
